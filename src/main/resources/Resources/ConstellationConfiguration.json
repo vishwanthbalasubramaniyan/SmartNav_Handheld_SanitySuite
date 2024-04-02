@@ -1,0 +1,219 @@
+[
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "OFF",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "OFF",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "OFF",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "OFF",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "OFF",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "OFF",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "OFF"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "OFF",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "OFF",
+		"GLONASS" : "ON",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "OFF",
+		"GALILEO" : "ON",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	},
+	{
+		"GPS" : "ON",
+		"GLONASS" : "ON",
+		"GALILEO" : "OFF",
+		"BEIDOU" : "ON",
+		"NavIC" : "ON"
+	}
+]

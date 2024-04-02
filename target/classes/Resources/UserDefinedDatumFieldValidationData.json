@@ -1,0 +1,86 @@
+[
+  {
+    "SemiMajorAxis" : "",
+    "SemiMajorAxisErrorMsg" : "Please enter Semi Major Axis",
+    "InverseFlattening" : "",
+    "InverseFlatteningErrorMsg" : "Please enter Inverse Flattening",
+    "DeltaX" : "",
+    "DeltaXErrorMessage" : "Please enter Delta X",
+    "DeltaY" : "",
+    "DeltaYErrorMessage" : "Please enter Delta Y",
+    "DeltaZ" : "",
+    "DeltaZErrorMessage" : "Please enter Delta Z"
+  },
+  {
+    "SemiMajorAxis" : ".",
+    "SemiMajorAxisErrorMsg" : "Invalid input",
+    "InverseFlattening" : ".",
+    "InverseFlatteningErrorMsg" : "Invalid input",
+    "DeltaX" : ".",
+    "DeltaXErrorMessage" : "Invalid input",
+    "DeltaY" : ".",
+    "DeltaYErrorMessage" : "Invalid input",
+    "DeltaZ" : ".",
+    "DeltaZErrorMessage" : "Invalid input"
+  },
+  {
+    "SemiMajorAxis" : "9999999",
+    "SemiMajorAxisErrorMsg" : "Invalid input. Please enter value between 6355752m to 6396137m",
+    "InverseFlattening" : "999",
+    "InverseFlatteningErrorMsg" : "Invalid input. Please enter value between 290 to 310.",
+    "DeltaX" : "1000",
+    "DeltaXErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaY" : "1000",
+    "DeltaYErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaZ" : "1000",
+    "DeltaZErrorMessage" : "Invalid input. Please enter value between -999 to +999."
+  },
+  {
+    "SemiMajorAxis" : "6355751",
+    "SemiMajorAxisErrorMsg" : "Invalid input. Please enter value between 6355752m to 6396137m",
+    "InverseFlattening" : "289",
+    "InverseFlatteningErrorMsg" : "Invalid input. Please enter value between 290 to 310.",
+    "DeltaX" : "-1000",
+    "DeltaXErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaY" : "-1000",
+    "DeltaYErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaZ" : "-1000",
+    "DeltaZErrorMessage" : "Invalid input. Please enter value between -999 to +999."
+  },
+  {
+    "SemiMajorAxis" : "6396138",
+    "SemiMajorAxisErrorMsg" : "Invalid input. Please enter value between 6355752m to 6396137m",
+    "InverseFlattening" : "311",
+    "InverseFlatteningErrorMsg" : "Invalid input. Please enter value between 290 to 310.",
+    "DeltaX" : "-1000.9",
+    "DeltaXErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaY" : "-1000.9",
+    "DeltaYErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaZ" : "-1000.9",
+    "DeltaZErrorMessage" : "Invalid input. Please enter value between -999 to +999."
+  },
+  {
+    "SemiMajorAxis" : "6396137.001",
+    "SemiMajorAxisErrorMsg" : "Invalid input. Please enter value between 6355752m to 6396137m",
+    "InverseFlattening" : "310.0000001",
+    "InverseFlatteningErrorMsg" : "Invalid input. Please enter value between 290 to 310.",
+    "DeltaX" : "999.01",
+    "DeltaXErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaY" : "999.01",
+    "DeltaYErrorMessage" : "Invalid input. Please enter value between -999 to +999.",
+    "DeltaZ" : "999.01",
+    "DeltaZErrorMessage" : "Invalid input. Please enter value between -999 to +999."
+  },
+  {
+    "SemiMajorAxis" : "6355751.9999",
+    "SemiMajorAxisErrorMsg" : "Invalid input. Please enter value between 6355752m to 6396137m",
+    "InverseFlattening" : "289.99999999",
+    "InverseFlatteningErrorMsg" : "Invalid input. Please enter value between 290 to 310.",
+    "DeltaX" : "-",
+    "DeltaXErrorMessage" : "Invalid input",
+    "DeltaY" : "-",
+    "DeltaYErrorMessage" : "Invalid input",
+    "DeltaZ" : "-",
+    "DeltaZErrorMessage" : "Invalid input"
+  }
+]

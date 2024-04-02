@@ -1,0 +1,91 @@
+[
+	{
+		"WaypointName":"Test_Edit",
+		"PositionFormat":"dd.ddddd",
+		"Latitude" : "13.56789",
+		"Longitude": "80.66547",
+		"Altitude": "500"
+	},
+	{
+		"WaypointName":"Test_EditDD1",
+		"PositionFormat":"dd.ddddd",
+		"Latitude" : "12.56789",
+		"Longitude": "77.66547",
+		"Altitude": "900"
+	},
+	{
+		"WaypointName": "Test_EditDMS1",
+		"PositionFormat":"dd mm ss.ss",
+		"LatitudeDegree": "12",
+		"LatitudeMinutes": "34",
+		"LatitudeSeconds": "4.40",
+		"LatitudeSign": "N",
+		"LongitudeDegree": "77",
+		"LongitudeMinutes": "39",
+		"LongitudeSeconds": "55.69",
+		"LongitudeSign":"E",
+		"Altitude": "900"
+	},
+	{
+		"WaypointName":"Test_EditDD2",
+		"PositionFormat":"dd.ddddd",
+		"Latitude" : "16.56789",
+		"Longitude": "70.66547",
+		"Altitude": "900"
+	},
+	{
+		"WaypointName":"Test_EditMGRS1",
+		"PositionFormat":"MGRS",
+		"MGRS":"43PGQ1334276621",
+		"Altitude": "900"
+	},
+	{
+		"WaypointName":"Test_EditECEF1",
+		"PositionFormat":"ECEF",
+		"X" : "2363882",
+		"Y" : "5884970",
+		"Z" : "0675828"
+	},
+	{
+		"WaypointName":"Test_EditUD1",
+		"PositionFormat":"UserDefined_LCC",
+		"Easting":"69772",
+		"Northing":"184208",
+		"Altitude":"900"
+	},
+	{
+		"WaypointName":"Test_EditIGRS1",
+		"PositionFormat":"IGRS (New format)",
+		"Zone":"Zone1",
+		"GridLetters":"AB",
+		"Easting":"69772",
+		"Northing":"84208",
+		"Altitude":"900"
+	},
+	{
+	"WaypointName":"Test_EditIGRS2",
+	"PositionFormat":"IGRS (New format)",
+		"Zone":"Zone2",
+		"GridLetters":"BC",
+		"Easting":"05891",
+		"Northing":"93225",
+		"Altitude":"900"
+	},
+	{
+		"WaypointName":"Test_EditIGRS_OF1",
+		"PositionFormat":"IGRS (Old format)",
+		"Zone":"IVA",
+		"Easting":"2484911",
+		"Northing":"1020926",
+		"Altitude":"000"
+	},
+	{
+		"WaypointName":"Test_EditIGRS_OF2",
+		"PositionFormat":"IGRS (Old format)",
+		"Zone":"IIIA",
+		"Easting":"2345877",
+		"Northing":"0703460",
+		"Altitude":"905"
+	}
+
+]

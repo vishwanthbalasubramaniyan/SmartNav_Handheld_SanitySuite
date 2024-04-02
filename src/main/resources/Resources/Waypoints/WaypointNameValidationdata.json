@@ -1,0 +1,38 @@
+[
+{
+	"Name":"12345",
+	"Error":"The name should start with an alphabet "
+},
+{
+	"Name":"_",
+	"Error":"The name should start with an alphabet "
+},
+{
+	"Name":"@%",
+	"Error":"Name can have alphanumeric values and underscore only "
+},
+{
+	"Name":"Wp_",
+	"Error":"Waypoint name cannot start with Wp_ or RWP_ or Mark_ or Goto_ or Mob_ "
+},
+	{
+		"Name":"Rwp_",
+		"Error":"Waypoint name cannot start with Wp_ or RWP_ or Mark_ or Goto_ or Mob_ "
+	},
+	{
+		"Name":"Goto_",
+		"Error":"Waypoint name cannot start with Wp_ or RWP_ or Mark_ or Goto_ or Mob_ "
+	},
+	{
+		"Name":"Mob_",
+		"Error":"Waypoint name cannot start with Wp_ or RWP_ or Mark_ or Goto_ or Mob_ "
+	},
+	{
+		"Name":"",
+		"Error":"Please enter waypoint name "
+	},
+{
+	"Name":"Zone15_UD_DD",
+	"Error":"The Waypoint name already exists"
+}
+]

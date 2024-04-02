@@ -1,0 +1,26 @@
+[
+  {
+    "MGRS_String": " ",
+    "MGRS_ValidationError": "Please enter MGRS string",
+    "Altitude" : " ",
+    "Altitude_ValidationError": "Please Enter Altitude"
+  },
+{
+  "MGRS_String": "24",
+  "MGRS_ValidationError": "Enter valid minimum 5 digit MGRS value",
+  "Altitude" : ".",
+  "Altitude_ValidationError": "Invalid input"
+},
+  {
+    "MGRS_String": "894748962345678",
+    "MGRS_ValidationError": "Please enter valid MGRS string",
+    "Altitude" : " ",
+    "Altitude_ValidationError": "Please Enter Altitude"
+  },
+  {
+    "MGRS_String": "ADSFFFFFFFFFFFF",
+    "MGRS_ValidationError": "Please enter valid MGRS string",
+    "Altitude" : "-",
+    "Altitude_ValidationError": "Invalid input"
+  }
+]

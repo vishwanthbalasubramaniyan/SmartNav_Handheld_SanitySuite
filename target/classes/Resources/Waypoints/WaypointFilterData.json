@@ -1,0 +1,41 @@
+[
+
+	{
+		"Category":"Building",
+		"StatusOnMap" : "All"
+	},
+
+	{
+		"Category":"Civic",
+		"StatusOnMap" : "Show Not Available On Map"
+
+	},
+
+	{
+		"Category":"Education",
+		"StatusOnMap" : "Show Available On Map"
+	},
+	{
+		"Category":"Emergency",
+		"StatusOnMap" : "Show Available On Map"
+	},
+
+	{
+		"Category":"Food",
+		"StatusOnMap" : "Show Not Available On Map"
+	},
+	{
+		"Category":"Sports",
+		"StatusOnMap" : "All"
+	},
+
+	{
+		"Category":"User Defined",
+		"StatusOnMap" : "Show Available On Map"
+	},
+
+	{
+		"Category":"Worship",
+		"StatusOnMap" : "Show Not Available On Map"
+	}
+]

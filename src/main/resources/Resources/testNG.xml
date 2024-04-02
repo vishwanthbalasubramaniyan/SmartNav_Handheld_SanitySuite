@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+    <test name="ConvertFromDDDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDDDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromDDKpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDDKpurDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromDDUserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDDUserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromDMMDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDMMDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromDMMKpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDMMKpurDataVerificationTest"/>
+        </classes>
+    </test>
+
+    <test name="ConvertFromDMMUserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDMMUserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromDMSDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDMSDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromDMSKpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDMSKpurDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromDMSUserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromDMSUserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromECEFDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromECEFDataVerificationTest"/>
+        </classes>
+    </test>
+
+    <test name="ConvertFromECEFKpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromECEFKpurDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromECEFUserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromECEFUserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromIGRSNewSP1DataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromIGRSNewSP1DataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromIGRSNewSP1KpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromIGRSNewSP1KpurDataVerificationTest"/>
+        </classes>
+    </test>
+
+    <test name="ConvertFromIGRSNewSP1UserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromIGRSNewSP1UserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromIGRSNewSP2DataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromIGRSNewSP2DataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromIGRSNewSP2KpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromIGRSNewSP2KpurDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromIGRSNewSP2UserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromIGRSNewSP2UserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromMGRSDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromMGRSDataVerificationTest"/>
+        </classes>
+    </test>
+
+    <test name="ConvertFromMGRSKpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromMGRSKpurDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromMGRSUserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromMGRSUserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromUserDefinedSP1DataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromUserDefinedSP1DataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromUserDefinedSP1KpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromUserDefinedSP1KpurDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromUserDefinedSP1UserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromUserDefinedSP1UserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromUserDefinedSP2DataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromUserDefinedSP2DataVerificationTest"/>
+        </classes>
+    </test>
+
+
+    <test name="ConvertFromUserDefinedSP2KpurDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromUserDefinedSP2KpurDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="ConvertFromUserDefinedSP2UserDefDataVerificationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.ConvertFromUserDefinedSP2UserDefDataVerificationTest"/>
+        </classes>
+    </test>
+    <test name="GeoSystemConversionFieldValidationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.GeoSystemConversion.GeoSystemConversionFieldValidationTest"/>
+        </classes>
+    </test>
+    <test name="Advanced Settings - DatumFieldValidationTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.AdvancedSettings.DatumFieldValidationTest"/>
+        </classes>
+    </test>
+
+    <test name="Location Screen Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.EditGeosystemFromLocationTest"/>
+        </classes>
+    </test>
+
+    <test name="Set GeoSystem from Settings page test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.EditGeoSystemFromSettingsTest"/>
+        </classes>
+    </test>
+
+
+    <test name="LocationScreenDateAndTimeTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.LocationScreenDateAndTimeTest"/>
+        </classes>
+    </test>
+
+    <test name="Maps screen UI Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.MapsUIComponentTest"/>
+        </classes>
+    </test>
+
+    <test name="Navigation Screen Abbreviation Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.NavigationFieldAbbreviationTest"/>
+        </classes>
+    </test>
+
+    <test name="Back,Home and Page button Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.NavigationOptionsTest"/>
+        </classes>
+    </test>
+
+
+    <test name="Satellite Configuration test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.SatelliteConfigurationTest"/>
+        </classes>
+    </test>
+    <test name="TracksTest">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.TracksTest"/>
+        </classes>
+    </test>
+
+    <test name="Update PIN option in Lock Screen Settings test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.UpdatePINTest"/>
+        </classes>
+    </test>
+<!--    <test name="Waypoint Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.WaypointCreationTest"/>
+            <class name="com.accord.SmartNav_Handheld.Tests.WaypointFieldValidationTest"/>
+        </classes>
+
+        <test name="Route Creation Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.RouteCreationTest"/>
+        </classes>
+    </test>
+    <test name="Route Delete Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.RouteDeleteTest"/>
+        </classes>
+    </test>
+
+    <test name="Route SearchByName Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.RouteSearchByNameTest"/>
+        </classes>
+    </test>
+
+    <test name="Route SelectAll Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.RouteSelectAllOption"/>
+        </classes>
+    </test>
+
+    <test name="Route SortBy Test">
+        <classes>
+            <class name="com.accord.SmartNav_Handheld.Tests.RouteSortByOption"/>
+        </classes>
+    </test>
+
+    </test>-->
+</suite>

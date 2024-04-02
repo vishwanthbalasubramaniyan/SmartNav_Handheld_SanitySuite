@@ -1,0 +1,17 @@
+{
+  "AppiumServerPath" : {
+    "IP_Address" : "127.0.0.1",
+    "Port_Number" : 4723
+  },
+  "DeviceInfo" : {
+  "DeviceName" :"Appium-5554"
+},
+  "AppActivity" : {
+    "Activity_Name" : "com.accord.smartnav20_v20.modules.mainActivity.MainActivity"
+  },
+  "Miscellaneous" : {
+    "autoGrantPermissions" : true,
+    "noReset" : false,
+    "newCommandTimeout" : 120
+  }
+}

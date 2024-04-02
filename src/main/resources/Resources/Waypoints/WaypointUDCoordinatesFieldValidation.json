@@ -1,0 +1,39 @@
+[
+  {
+    "Zone_ValidationError" : "   Please enter Zone details",
+    "Easting":" ",
+    "Easting_ValidationError" : "Please enter Easting",
+    "Northing":" ",
+    "Northing_ValidationError" : "Please enter Northing",
+    "Altitude":" ",
+    "Altitude_ValidationError" : "Please Enter Altitude"
+  },
+  {
+    "Zone_ValidationError" : "   Please enter Zone details",
+    "Easting":" ",
+    "Easting_ValidationError" : "Please enter Easting",
+    "Northing":" ",
+    "Northing_ValidationError" : "Please enter Northing",
+    "Altitude":"18001",
+    "Altitude_ValidationError" : "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+  {
+    "Zone_ValidationError" : "   Please enter Zone details",
+    "Easting":".",
+    "Easting_ValidationError" : "Invalid input",
+    "Northing":".",
+    "Northing_ValidationError" : "Invalid input",
+    "Altitude":"-",
+    "Altitude_ValidationError" : "Invalid input"
+  },
+  {
+    "Zone_ValidationError" : "   Please enter Zone details",
+    "Easting":"-",
+    "Easting_ValidationError" : "Invalid input",
+    "Northing":"-",
+    "Northing_ValidationError" : "Invalid input",
+    "Altitude":".",
+    "Altitude_ValidationError" : "Invalid input"
+  }
+
+  ]

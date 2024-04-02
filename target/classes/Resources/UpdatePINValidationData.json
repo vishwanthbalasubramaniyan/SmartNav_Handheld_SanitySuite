@@ -1,0 +1,50 @@
+[
+	{
+		"OldPIN" : "",
+		"NewPIN" : "",
+		"ConfirmPIN" : "",
+		"OldPINError" :"Enter valid old PIN",
+		"NewPINError" : "Enter valid new PIN",
+		"ConfirmPINError" : "Enter confirm PIN"
+	},
+	{
+		"OldPIN" : "111111",
+		"NewPIN" : "",
+		"ConfirmPIN" : "",
+		"OldPINError" :"Enter valid old PIN",
+		"NewPINError" : "Enter valid new PIN",
+		"ConfirmPINError" : "Enter confirm PIN"
+	},
+	{
+		"OldPIN" : "1234",
+		"NewPIN" : "121212",
+		"ConfirmPIN" : "121212",
+		"OldPINError" :"Enter valid 6 digit old PIN",
+		"NewPINError" : "",
+		"ConfirmPINError" : ""
+	},
+	{
+		"OldPIN" : "123456",
+		"NewPIN" : "1212",
+		"ConfirmPIN" : "121212",
+		"OldPINError" :"",
+		"NewPINError" : "Enter valid 6 digit new PIN",
+		"ConfirmPINError" : "New PIN and Confirm PIN does not match"
+	},
+	{
+		"OldPIN" : "123456",
+		"NewPIN" : "121212",
+		"ConfirmPIN" : "1212",
+		"OldPINError" :"",
+		"NewPINError" : "",
+		"ConfirmPINError" : "Enter valid 6 digit confirm PIN"
+	},
+	{
+		"OldPIN" : "123456",
+		"NewPIN" : "121212",
+		"ConfirmPIN" : "121221",
+		"OldPINError" :"",
+		"NewPINError" : "",
+		"ConfirmPINError" : "New PIN and Confirm PIN does not match"
+	}
+]

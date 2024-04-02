@@ -1,0 +1,59 @@
+[
+  {
+    "X(m)": " ",
+    "X_ValidationError": "Please Enter X value",
+    "Y(m)" : " ",
+    "Y_ValidationError": "Please Enter Y value",
+    "Z(m)" : " ",
+    "Z_ValidationError": "Please Enter Z value"
+  },
+{
+  "X(m)": "111111111",
+  "X_ValidationError": "Invalid input. Please enter value between -6400000(m) to 6400000(m).",
+  "Y(m)" : "111111111",
+  "Y_ValidationError": "Invalid input. Please enter value between -6400000(m) to 6400000(m).",
+  "Z(m)" : "111111111",
+  "Z_ValidationError": "Invalid input. Please enter value between -6400000(m) to 6400000(m)."
+},
+  {
+    "X(m)": "-",
+    "X_ValidationError": "Invalid input",
+    "Y(m)" : "-",
+    "Y_ValidationError": "Invalid input",
+    "Z(m)" : "-",
+    "Z_ValidationError": "Invalid input"
+  },
+  {
+    "X(m)": ".",
+    "X_ValidationError": "Invalid input",
+    "Y(m)" : ".",
+    "Y_ValidationError": "Invalid input",
+    "Z(m)" : ".",
+    "Z_ValidationError": "Invalid input"
+  },
+
+  {
+    "X(m)": "-6400000.",
+    "X_ValidationError": "Invalid input",
+    "Y(m)" : "-6400000.",
+    "Y_ValidationError": "Invalid input",
+    "Z(m)" : "-6400000.",
+    "Z_ValidationError": "Invalid input"
+  },
+  {
+    "X(m)": "6400000001",
+    "X_ValidationError": "Invalid input. Please enter value between -6400000(m) to 6400000(m).",
+    "Y(m)" : "640000002",
+    "Y_ValidationError": "Invalid input. Please enter value between -6400000(m) to 6400000(m).",
+    "Z(m)" : "640000003",
+    "Z_ValidationError": "Invalid input. Please enter value between -6400000(m) to 6400000(m)."
+  },
+  {
+    "X(m)": "450.30",
+    "X_ValidationError": "Invalid input",
+    "Y(m)" : "6400.500",
+    "Y_ValidationError": "Invalid input",
+    "Z(m)" : "656575.90",
+    "Z_ValidationError": "Invalid input"
+  }
+]

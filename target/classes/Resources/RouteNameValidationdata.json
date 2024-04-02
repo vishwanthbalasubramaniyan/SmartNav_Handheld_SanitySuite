@@ -1,0 +1,18 @@
+[
+{
+	"Name":"Route1",
+	"Error":"Route name already exist"
+},
+{
+	"Name": " ",
+	"Error": "Enter a valid route name"
+},
+{
+	"Name":"2023Sample",
+	"Error":"The name should start with an alphabet"
+},
+{
+	"Name":"test name",
+	"Error":"Name can have alphanumeric values and underscore only "
+}
+]

@@ -1,0 +1,15 @@
+[
+  {
+     "Name": "test",
+     "Latitude": "13.56789",
+     "Longitude" : "80.66547",
+     "Altitude(MSL)" : "500.00m"
+  },
+  {
+    "Name": "TestDD1",
+    "Latitude": "12.56789",
+    "Longitude" : "77.66547",
+    "Altitude(MSL)" : "900.00m"
+
+  }
+]

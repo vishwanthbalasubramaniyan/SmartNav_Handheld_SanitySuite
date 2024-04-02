@@ -1,0 +1,73 @@
+[
+  {
+    "Precision" : "4 Digit GR",
+    "Zone_ValidationError" : " Please enter Zone details",
+    "GridLetters": "SD",
+    "GridLetters_ValidationError" : "Invalid input. Please enter letters from A to K except I.",
+    "Easting": "7898928",
+    "Easting_ValidationError": "Selected precision is 4 digit. Please enter valid input.",
+    "Northing": "236978",
+    "Northing_ValidationError": "Selected precision is 4 digit. Please enter valid input.",
+    "Altitude": "-1001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+  {
+    "Precision" : "6 Digit GR",
+    "Zone_ValidationError" : " Please enter Zone details",
+    "GridLetters": "SD",
+    "GridLetters_ValidationError" : "Invalid input. Please enter letters from A to K except I.",
+    "Easting": "7898928",
+    "Easting_ValidationError": "Selected precision is 6 digit. Please enter valid input.",
+    "Northing": "236978",
+    "Northing_ValidationError": "Selected precision is 6 digit. Please enter valid input.",
+    "Altitude": "-1001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+  {
+    "Precision" : "8 Digit GR",
+    "Zone_ValidationError" : " Please enter Zone details",
+    "GridLetters": "SD",
+    "GridLetters_ValidationError" : "Invalid input. Please enter letters from A to K except I.",
+    "Easting": "7898928",
+    "Easting_ValidationError": "Selected precision is 8 digit. Please enter valid input.",
+    "Northing": "236978",
+    "Northing_ValidationError": "Selected precision is 8 digit. Please enter valid input.",
+    "Altitude": "-1001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+  {
+    "Precision" : "10 Digit GR",
+    "Zone_ValidationError" : " Please enter Zone details",
+    "GridLetters": "QQ",
+    "GridLetters_ValidationError" : "Invalid input. Please enter letters from A to K except I.",
+    "Easting": "7898928",
+    "Easting_ValidationError": "Selected precision is 10 digit. Please enter valid input.",
+    "Northing": "236978",
+    "Northing_ValidationError": "Selected precision is 10 digit. Please enter valid input.",
+    "Altitude": "-1001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+  {
+    "Zone_ValidationError" : " Please enter Zone details",
+    "GridLetters": " ",
+    "GridLetters_ValidationError" : "Please enter Grid Letters",
+    "Easting":"-",
+    "Easting_ValidationError": "Selected precision is 10 digit. Please enter valid input.",
+    "Northing":"-",
+    "Northing_ValidationError": "Selected precision is 10 digit. Please enter valid input.",
+    "Altitude": "-",
+    "Altitude_ValidationError": "Invalid input"
+  },
+  {
+    "Zone_ValidationError" : " Please enter Zone details",
+    "GridLetters": " ",
+    "GridLetters_ValidationError" : "Please enter Grid Letters",
+    "Easting":".",
+    "Easting_ValidationError": "Selected precision is 10 digit. Please enter valid input.",
+    "Northing":".",
+    "Northing_ValidationError": "Selected precision is 10 digit. Please enter valid input.",
+    "Altitude": ".",
+    "Altitude_ValidationError": "Invalid input"
+  }
+
+  ]

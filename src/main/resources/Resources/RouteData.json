@@ -1,0 +1,30 @@
+[
+	{
+		"Route Name": "Route1",
+		"Additional Notes": "Hi Route creation is in progress",
+		"waypoint1" : "rwp_3",
+		"waypoint2" : "rwp_18",
+		"waypoint3" : "rwp_27"
+	},
+	{
+		"Route Name":"test",
+		"Additional Notes" : " ",
+		"waypoint1" : "rwp_7",
+		"waypoint2" : "rwp_13",
+		"waypoint3" : "rwp_21"
+	},
+	{
+		"Route Name":"ROUTE",
+		"Additional Notes" : "Automation testing is partially complete",
+		"waypoint1" : "rwp_17",
+		"waypoint2" : "rwp_30",
+		"waypoint3" : "rwp_4"
+	},
+	{
+		"Route Name":"appiumTest",
+		"Additional Notes" : " ",
+		"waypoint1" : "rwp_8",
+		"waypoint2" : "rwp_24",
+		"waypoint3" : "rwp_25"
+	}
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "LatitudeDegree": " ",
+    "LatDeg_ValidationError" : "Please Enter Latitude",
+    "LatitudeMinutes": " ",
+    "LatMin_ValidationError": " ",
+    "LongitudeDegree" : " ",
+    "LongDeg_ValidationError": "Please Enter Longitude",
+    "LongitudeMinutes": " ",
+    "LongMin_ValidationError": " ",
+    "Altitude": " ",
+    "Altitude_ValidationError": "Please Enter Altitude"
+  },
+  {
+    "LatitudeDegree": "13",
+    "LatDeg_ValidationError" : " ",
+    "LatitudeMinutes" : " ",
+    "LatMin_ValidationError": "Please Enter Minutes Value",
+    "LongitudeDegree": "80",
+    "LongDeg_ValidationError": " ",
+    "LongitudeMinutes": " ",
+    "LongMin_ValidationError": "Please Enter Minutes Value",
+    "Altitude": "18001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+    {
+    "LatitudeDegree": "85",
+    "LatDeg_ValidationError": "Invalid input for degree",
+    "LatitudeMinutes": "70",
+      "LatMin_ValidationError": " ",
+    "LongitudeDegree": "181",
+    "LongDeg_ValidationError": "Invalid input for degree",
+    "LongitudeMinutes": "39",
+      "LongMin_ValidationError": " ",
+    "Altitude": "-1001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+  {
+    "LatitudeDegree": "12",
+    "LatDeg_ValidationError" : " ",
+    "LatitudeMinutes": "70",
+    "LatMin_ValidationError": "Invalid input for minutes",
+    "LongitudeDegree": "95",
+    "LongDeg_ValidationError": " ",
+    "LongitudeMinutes": "60.98765",
+    "LongMin_ValidationError": "Invalid input for minutes",
+    "Altitude": ".",
+    "Altitude_ValidationError": "Invalid input"
+  },
+  {
+    "LatitudeDegree": "90",
+    "LatDeg_ValidationError": "Invalid input for degree",
+    "LatitudeMinutes": "30",
+    "LatMin_ValidationError": " ",
+    "LongitudeDegree": "360",
+    "LongDeg_ValidationError": "Invalid input for degree",
+    "LongitudeMinutes": "55.44545",
+    "LongMin_ValidationError": " ",
+    "Altitude": "-",
+    "Altitude_ValidationError": "Invalid input"
+
+  }
+  ]

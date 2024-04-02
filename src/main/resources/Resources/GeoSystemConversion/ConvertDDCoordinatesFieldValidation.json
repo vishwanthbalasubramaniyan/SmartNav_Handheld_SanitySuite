@@ -1,0 +1,60 @@
+[
+  {
+    "Latitude": "-90.1",
+    "Latitude_ValidationError": "Invalid input",
+    "Longitude" : "-180",
+    "Longitude_ValidationError": "Invalid input",
+    "Altitude": "-1001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+{
+  "Latitude": "-91",
+  "Latitude_ValidationError": "Invalid input",
+  "Longitude" : "-180.1",
+  "Longitude_ValidationError": "Invalid input",
+  "Altitude": "56000",
+  "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+},
+  {
+    "Latitude": "90.1",
+    "Latitude_ValidationError": "Invalid input",
+    "Longitude" : "181",
+    "Longitude_ValidationError": "Invalid input",
+    "Altitude": "18001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+  {
+    "Latitude": "91",
+    "Latitude_ValidationError": "Invalid input",
+    "Longitude" : "180.1",
+    "Longitude_ValidationError": "Invalid input",
+    "Altitude": "-1001",
+    "Altitude_ValidationError": "Invalid input. Please enter value between -1000(m) to 18000(m)."
+  },
+
+  {
+    "Latitude": ".",
+    "Latitude_ValidationError": "Invalid input",
+    "Longitude" : ".",
+    "Longitude_ValidationError" : "Invalid input",
+    "Altitude": ".",
+    "Altitude_ValidationError": "Invalid input"
+
+  },
+  {
+    "Latitude": "-",
+    "Latitude_ValidationError": "Invalid input",
+    "Longitude" : "-",
+    "Longitude_ValidationError" : "Invalid input",
+    "Altitude": "-",
+    "Altitude_ValidationError": "Invalid input"
+  },
+  {
+    "Latitude": "  ",
+    "Latitude_ValidationError": "Please Enter Latitude",
+    "Longitude" : "  ",
+    "Longitude_ValidationError" : "Please Enter Longitude",
+    "Altitude": "  ",
+    "Altitude_ValidationError": "Please Enter Altitude"
+  }
+]
