@@ -3,13 +3,12 @@ package com.accord.SmartNav_Handheld.Tests;
 import com.accord.SmartNav_Handheld.HelpPage;
 import com.accord.SmartNav_Handheld.SettingsPage;
 import com.accord.SmartNav_Handheld.Utils.AppiumUtils;
-import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
 import java.util.HashMap;
 import java.util.List;
 
-public class SanitySuite extends BaseTest {
+public class HelpScreen extends BaseTest {
     HelpPage HelpPage;
 
     @Test(priority = 1)
