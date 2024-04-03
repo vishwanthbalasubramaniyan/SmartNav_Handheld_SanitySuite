@@ -56,6 +56,8 @@ public class SettingsPage{
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='ON']")
 	public WebElement eleStartUpON;
 
+	@AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.view.ViewGroup/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.TextView")
+    public WebElement eleScreenLockON;
 	// Device option in Settings page
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='GNSS Settings']")
 	public WebElement eleGNSSSettings;
