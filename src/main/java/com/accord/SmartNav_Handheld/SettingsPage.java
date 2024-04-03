@@ -29,6 +29,8 @@ public class SettingsPage{
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Settings']")
 	public WebElement eleSettings;
 
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='OK']")
+	public WebElement eleOKButton;
 	// Device option in Settings page
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Device']")
 	public WebElement eleDeviceSettings;
@@ -61,6 +63,21 @@ public class SettingsPage{
 	// Device option in Settings page
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='GNSS Settings']")
 	public WebElement eleGNSSSettings;
+
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='External']")
+	public WebElement eleExternalAntenna;
+
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Internal']")
+	public WebElement eleInternalAntenna;
+
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='GNSS']")
+	public WebElement eleGNSS;
+
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='PAUSE']")
+	public WebElement elePAUSE;
+
+	@AndroidFindBy(id = SMART_NAV_PACKAGE_NAME + "BtnNMEAData")
+	public WebElement elePAUSE1;
 
 	// Device option in Settings page
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Logging']")
