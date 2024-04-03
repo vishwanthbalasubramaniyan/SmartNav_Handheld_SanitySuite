@@ -9,14 +9,14 @@ import org.testng.annotations.Test;
 import java.util.HashMap;
 import java.util.List;
 
-public class DeviceBasicDetails extends BaseTest {
+public class SanitySuite extends BaseTest {
     HelpPage HelpPage;
 
     @Test(priority = 1)
     public void helpScreen() {
         test = extent.createTest("Help screen details", "Verify the values in help screen");
         setActivityToMainMenu();
-        driver.findElement(By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.Button")).click();
+       // driver.findElement(By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.Button")).click();
         enterLoginPassword();
         AppiumUtils.scrollUntilElement(driver, "Help");
         HelpPage = new HelpPage(driver);
@@ -29,19 +29,19 @@ public class DeviceBasicDetails extends BaseTest {
             String strOSVersion = input.get("OSVersion");
             String strFirmwareVersion = input.get("FirmwareVersion");
             if (HelpPage.eleAppVersion.getText().equals(strAppVersion)) {
-                test.pass("Appversion is  matching " + HelpPage.eleAppVersion.getText());
+                test.pass("Expected AppVersion is " + strAppVersion + " Actual AppVersion is " + HelpPage.eleAppVersion.getText());
             } else {
-                test.fail("Appversion is not  matching " + HelpPage.eleAppVersion.getText());
+                test.fail("Expected AppVersion is " + strAppVersion + " Actual AppVersion is " + HelpPage.eleAppVersion.getText());
             }
             if (HelpPage.eleOSVersion.getText().equals(strOSVersion)) {
-                test.pass("OSVersion is  matching " + HelpPage.eleOSVersion.getText());
+                test.pass("Expected OSVersion is " + strOSVersion + " Actual OSVersion is " + HelpPage.eleOSVersion.getText());
             } else {
-                test.fail("OSversion is not  matching " + HelpPage.eleOSVersion.getText());
+                test.fail("Expected OSVersion is " + strOSVersion + " Actual OSVersion is " + HelpPage.eleOSVersion.getText());
             }
             if (HelpPage.eleFirmwareVersion.getText().equals(strFirmwareVersion)) {
-                test.pass("FirmwareVersion is  matching " + HelpPage.eleFirmwareVersion.getText());
+                test.pass("Expected FirmwareVersion is " + strFirmwareVersion + " Actual FirmwareVersion is " + HelpPage.eleFirmwareVersion.getText());
             } else {
-                test.fail("FirmwareVersion is not  matching " + HelpPage.eleFirmwareVersion.getText());
+                test.fail("Expected FirmwareVersion is " + strFirmwareVersion + " Actual FirmwareVersion is " + HelpPage.eleFirmwareVersion.getText());
             }
             break;
         }
