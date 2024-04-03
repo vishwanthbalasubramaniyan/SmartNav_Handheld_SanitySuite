@@ -15,11 +15,11 @@ public class SettingsScreen extends BaseTest{
         SettingsPage.eleSettings.click();
         //Turn OFF Device Notification
        SettingsPage.eleDeviceSettings.click();
-//        SettingsPage.eleNotification.click();
-//        SettingsPage.eleNotificationOFF.click();
-//        SettingsPage.eleNotificationOFF.getText();
-//        test.info("Notification is turned OFF");
-//        SettingsPage.eleBackButton.click();
+        SettingsPage.eleNotification.click();
+        SettingsPage.eleNotificationOFF.click();
+        SettingsPage.eleNotificationOFF.getText();
+        test.info("Notification is turned OFF");
+        SettingsPage.eleBackButton.click();
         //Device StartUp PIN Enable
         SettingsPage.eleLockScreenSettings.click();
         SettingsPage.eleStartUpON.click();
